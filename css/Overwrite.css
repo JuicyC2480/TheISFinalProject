@@ -1,0 +1,20 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-weight: 200;
+    font-size: x-large;
+}
+
+.imgshadow{
+    box-shadow: 15px 8px 5px #00000013;
+    max-width: 100%;
+    height: auto;
+}
+
+.tableauPlaceholder{
+   height: auto;
+   width: auto;
+    
+}
